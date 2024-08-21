@@ -1,0 +1,9 @@
+
+{
+  "appFunctions": {
+    "myFunc": {
+      "file": "call-webhook-endpoint.js",
+      "secrets": []
+    }
+  }
+}

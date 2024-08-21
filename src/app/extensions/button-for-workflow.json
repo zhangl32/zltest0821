@@ -1,0 +1,12 @@
+{
+  "type": "crm-card",
+  "data": {
+    "title": "Saleslot Copy",
+    "uid": "start_saleslot_copy",
+    "location": "crm.record.sidebar",
+    "module": {
+      "file": "button-for-workflow.jsx"
+    },
+    "objectTypes": [{ "name": "p_sales_lot" }]
+  }
+}
